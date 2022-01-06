@@ -25,7 +25,7 @@ const useStyles = makeStyles((theme) => ({
     right: 10,
   },
   modal: {
-    width: 500,
+    width: 600,
     height: 600,
     backgroundColor: "#cde2f7",
     position: "absolute",
